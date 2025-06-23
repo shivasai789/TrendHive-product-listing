@@ -32,23 +32,6 @@ An e-commerce **product-listing** interface built with the MERN tech stack (Mong
 
 ---
 
-## 📁 Project Structure
-
-/
-├── backend/ # API and DB logic
-│ ├── controllers/
-│ ├── models/
-│ ├── routes/
-│ └── server.js
-├── frontend/ # React client
-│ ├── src/
-│ │ ├── components/
-│ │ ├── pages/
-│ │ └── store/
-│ └── public/
-├── .gitignore
-├── package.json
-└── README.md
 
 ## 🔧 Setup & Run
 
